@@ -28,9 +28,9 @@ export const projects = [
   },
   {
     title: 'Blog Frontend Application',
-    description: "#",
+    description: "soon",
     image: '/#',
-    tags: ['React', 'ChatEngine', 'Firebase'],
+    tags: ['React'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 3,
