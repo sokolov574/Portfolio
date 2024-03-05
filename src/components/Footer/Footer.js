@@ -13,8 +13,26 @@ const Footer = () => {
         <LinkItem href="tel:+49-176-225-878-46">+49-176-225-878-46</LinkItem>
       </LinkColumn>
         <LinkTitle>Email</LinkTitle>
-        <LinkItem href="sokolov.oleh.27@gmail.com">sokolov.oleh.27@gmail.com</LinkItem>:
-    </LinkList>   
+        <LinkItem href="mailto:sokolov.oleh.27@gmail.com">sokolov.oleh.27@gmail.com</LinkItem>:
+    </LinkList>
+    <SocialIconsContainer>
+      <CompanyContainer>
+        <Slogan>Developing the future</Slogan>
+      </CompanyContainer>
+      
+      <SocialIcons href="https://github.com/sokolov574">
+        <AiFillGithub size="3rem" />
+      </SocialIcons>
+
+      <SocialIcons href="https://www.linkedin.com/in/oleh-sokolov-2bb078252/">
+        <AiFillLinkedin size="3rem" />
+      </SocialIcons>
+
+      <SocialIcons href="https://www.instagram.com/sokolov.o/">
+        <AiFillInstagram size="3rem" />
+      </SocialIcons>
+
+    </SocialIconsContainer> 
    </FooterWrapper> 
   );
 };
