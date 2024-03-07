@@ -8,8 +8,8 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome to <br />
-        My Personal Portfolio
+        My name is Oleh <br />
+        and i am a Fullstack Web Developer
       </SectionTitle>
       <SectionText>
         I am a full stack developer with a passion for creating and developing web applications. I am constantly learning and growing to become the best developer I can be. 
