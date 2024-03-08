@@ -40,7 +40,7 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2021, text: '...', },
+  { year: 2021, text: 'I started self-studying UI/UX designs and also studied HTML, CSS, SASS and implemented my knowledge in projects.', },
   { year: 2022, text: '...', },
   { year: 2023, text: '...', }
 ];
