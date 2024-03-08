@@ -41,6 +41,7 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2021, text: 'I started self-studying UI/UX designs and also studied HTML, CSS, SASS and implemented my knowledge in projects.', },
-  { year: 2022, text: '...', },
-  { year: 2023, text: '...', }
+  { year: 2022, text: 'From March to August, I took a Udemy course on React application development. In September, I started my one-year course at the Digital Career Institute.', },
+  { year: 2023, text: '', },
+  { year: 2024, text: '', }
 ];
