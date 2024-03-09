@@ -32,7 +32,7 @@ export const projects = [
     image: '/#',
     tags: ['React', 'JavaScript'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://github.com/sokolov574/project_peaky_blinders_html_css',
     id: 1,
   },
  
