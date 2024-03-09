@@ -43,5 +43,5 @@ export const TimeLineData = [
   { year: 2021, text: 'I started self-studying UI/UX designs and also studied HTML, CSS, SASS and implemented my knowledge in projects.', },
   { year: 2022, text: 'From March to August, I took a Udemy course on React application development. In September, i started my one-year course at the Digital Career Institute.', },
   { year: 2023, text: 'Throughout 2023, I studied MERN stack development. I focused mostly on frontend development and new technologies. I worked extensively on projects using ReactJS and NextJS. Today, I continue to improve my skills in web development.', },
-  { year: 2024, text: '', }
+  { year: 2024, text: 'In February 2024, I completed the Digital Career Institute program. Today, I continue to learn new programming languages, create new projects, improve old ones, and of course, I am currently searching for my first job.', }
 ];
