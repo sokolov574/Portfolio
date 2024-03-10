@@ -12,7 +12,7 @@ const Technologies = () =>  (
     
     <List>
       <ListItem>  
-        <DiReact size='3rem'/>
+        <DiReact size='7rem'/>
         <ListContainer>
           <ListTitle>Front-end</ListTitle>
           <ListParagraph>
@@ -23,7 +23,7 @@ const Technologies = () =>  (
       </ListItem>
 
       <ListItem>  
-        <DiFirebase size='3rem'/>
+        <DiFirebase size='7rem'/>
         <ListContainer>
           <ListTitle>Back-end</ListTitle>
           <ListParagraph>
@@ -34,7 +34,7 @@ const Technologies = () =>  (
       </ListItem> 
 
       <ListItem>  
-        <DiZend size='3rem'/>
+        <DiZend size='7rem'/>
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
