@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Marvel Portal',
-    description: "soon",
+    description: "Marvel Portal is a web application dedicated to the Marvel Universe. It provides detailed information about Marvel superheroes, villains, and other characters from Marvel comics. The app is created for Marvel fans as well as those who want to expand their knowledge of this impressive fictional universe. Currently, the project is in active development.",
       image: '../images/logo.png',
       tags: ['React', 'JavaScript'],
     source: 'https://sokolov574.github.io/marvel-portal-react/',
