@@ -12,7 +12,7 @@ const Hero = (props) => (
         and i am a Fullstack Web Developer
       </SectionTitle>
       <SectionText>
-        I am a full stack developer with a passion for creating and developing web applications. I am constantly learning and growing to become the best developer I can be. 
+      An ambitious web artisan, crafting innovative solutions. Deftly juggling React, Next.js, and MongoDB to breathe life into client visions. An indefatigable explorer of cutting-edge technologies, I find inspiration in creative challenges. My passion lies in full-cycle development, from conception to implementation. Join me on this exhilarating journey into the realm of web development!
       </SectionText>
       <Button onClick={() => window.location = 'https://www.linkedin.com/in/oleh-sokolov-2bb078252/'}>Learn More</Button>
     </LeftSection>
