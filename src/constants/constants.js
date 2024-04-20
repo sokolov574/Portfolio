@@ -1,12 +1,21 @@
 export const projects = [
   {
+    title: 'File-Storage',
+    description: "An outstanding solution for file storage and management. This full-featured application provides a secure environment for organizations, allowing them to upload, view, and administer files with a well-designed permission system and authentication.",
+      image: '../images/logo-storage.png',
+      tags: ['TypeScript', 'NextJS', 'Shadcn UI', 'Tailwind', 'Convex'],
+    source: 'https://file-storage-eta.vercel.app/dashboard/files',
+    visit: 'https://github.com/sokolov574/file-storage',
+    id: 0,
+  },
+  {
     title: 'eAmt',
     description: "E-AMT is an online platform designed to facilitate official procedures in Germany. It offers a convenient way for users to complete various official tasks over the internet, making government interactions more accessible and efficient.",
       image: '../images/logo_eAmt.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://e-amt.vercel.app/en/dashboard',
     visit: 'https://github.com/sokolov574/eAmt',
-    id: 0,
+    id: 1,
   },
   {
     title: 'Marvel Portal',
@@ -33,7 +42,7 @@ export const projects = [
     tags: ['React', 'JavaScript'],
     source: 'https://google.com',
     visit: 'https://github.com/sokolov574/project_peaky_blinders_html_css',
-    id: 1,
+    id: 4,
   },
  
   
